@@ -1,0 +1,10 @@
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\bin\Debug\aula DS.exe.config
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\bin\Debug\aula DS.exe
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\bin\Debug\aula DS.pdb
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\obj\Debug\aula DS.csproj.AssemblyReference.cache
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\obj\Debug\aula_DS.Properties.Resources.resources
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\obj\Debug\aula DS.csproj.GenerateResource.cache
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\obj\Debug\aula DS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\obj\Debug\aula DS.exe
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\obj\Debug\aula DS.pdb
+C:\Users\Aluno_EtecTiete\Desktop\aula DS\aula DS\obj\Debug\aula_DS.lbl.resources
